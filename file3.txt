@@ -1,3 +1,4 @@
+
 Este é o exemplo de um ficheiro de texto file3
 
 <h2>Bebida</h2>
@@ -5,5 +6,13 @@ Este é o exemplo de um ficheiro de texto file3
 <>ul
   <li>Cofffee</li>
   <li>Tea</li>
-  <li>Milk</li>
+  <li>Milk</li
+<h1>Listas de coisas</h1>
+
+<h2>Comidas</h2>
+
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
 </ul>
