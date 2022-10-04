@@ -1,5 +1,9 @@
-Modifiquei aqui
+Este é o exemplo de um ficheiro de texto file3
 
+<h2>Bebida</h2>
 
-
-BOAS
+<>ul
+  <li>Cofffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
